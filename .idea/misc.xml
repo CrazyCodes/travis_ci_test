@@ -72,8 +72,4 @@
       <textMaps />
     </LinkMapSettings>
   </component>
-  <component name="PhpProjectSharedConfiguration" php_language_level="7.1" />
-  <component name="ProjectDictionaryState">
-    <dictionary name="crazy" />
-  </component>
 </project>
