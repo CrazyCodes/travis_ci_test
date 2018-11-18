@@ -17,6 +17,9 @@
   <component name="ComposerSettings">
     <executablePath>/usr/local/bin/composer</executablePath>
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/travis_ci_test$BasicTest_testInt.xml" NAME="BasicTest.testInt Coverage Results" MODIFIED="1542536743870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="PhpCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-2004877793">
       <usages-collector id="statistics.lifecycle.project">
