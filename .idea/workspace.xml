@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9cc9a078-19f8-42f7-b0d6-39708d16c369" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/BasicTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/BasicTest.php" afterDir="false" />
-    </list>
+    <list default="true" id="9cc9a078-19f8-42f7-b0d6-39708d16c369" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +13,7 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/travis_ci_test$BasicTest_testInt.xml" NAME="BasicTest.testInt Coverage Results" MODIFIED="1542536743870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="PhpCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/travis_ci_test$phpunit_xml.xml" NAME="phpunit.xml Coverage Results" MODIFIED="1542538497449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="PhpCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-2004877793">
@@ -87,7 +84,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.travis.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
@@ -96,11 +93,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/phpunit.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+            <state relative-caret-position="30">
+              <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -264,6 +261,11 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -324,23 +326,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1542526110565</updated>
-      <workItem from="1542526111775" duration="3085000" />
+      <workItem from="1542526111775" duration="4012000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BasicTest_testInt - 2018.11.18 at 18h 22m 58s.xml">
-      <configuration name="BasicTest.testInt" configurationId="PHPUnitRunConfigurationType" />
-    </history-entry>
-    <history-entry file="BasicTest_testInt - 2018.11.18 at 18h 23m 36s.xml">
-      <configuration name="BasicTest.testInt" configurationId="PHPUnitRunConfigurationType" />
-    </history-entry>
-    <history-entry file="BasicTest_testInt - 2018.11.18 at 18h 25m 42s.xml">
-      <configuration name="BasicTest.testInt" configurationId="PHPUnitRunConfigurationType" />
-    </history-entry>
-    <history-entry file="BasicTest_testInt - 2018.11.18 at 18h 25m 44s.xml">
-      <configuration name="BasicTest.testInt" configurationId="PHPUnitRunConfigurationType" />
-    </history-entry>
     <history-entry file="BasicTest_testInt - 2018.11.18 at 18h 25m 45s.xml">
       <configuration name="BasicTest.testInt" configurationId="PHPUnitRunConfigurationType" />
     </history-entry>
@@ -359,9 +349,21 @@
     <history-entry file="phpunit_xml - 2018.11.18 at 18h 50m 07s.xml">
       <configuration name="phpunit.xml" configurationId="PHPUnitRunConfigurationType" />
     </history-entry>
+    <history-entry file="phpunit_xml - 2018.11.18 at 18h 50m 53s.xml">
+      <configuration name="phpunit.xml" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="phpunit_xml - 2018.11.18 at 18h 51m 18s.xml">
+      <configuration name="phpunit.xml" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="phpunit_xml - 2018.11.18 at 18h 54m 57s.xml">
+      <configuration name="phpunit.xml" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="phpunit_xml - 2018.11.18 at 18h 55m 02s.xml">
+      <configuration name="phpunit.xml" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3085000" />
+    <option name="totallyTimeSpent" value="4012000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -425,13 +427,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.travis.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tests/BasicTest.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -444,8 +439,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/phpunit.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        <state relative-caret-position="30">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.travis.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
         </state>
       </provider>
     </entry>
