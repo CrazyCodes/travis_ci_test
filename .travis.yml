@@ -1,5 +1,7 @@
 language: php
 php:
 - 7.1
-before_script: composer require phpunit/phpunit
-script: vendor/phpunit/phpunit/phpunit tests  tests
+before_script:
+- composer install
+- cd test
+script: phpunit -v

@@ -47,7 +47,7 @@
           <entry key="json" value="19" />
           <entry key="php" value="183" />
           <entry key="xml" value="2" />
-          <entry key="yml" value="80" />
+          <entry key="yml" value="85" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
@@ -56,7 +56,7 @@
           <entry key="PHP" value="183" />
           <entry key="PLAIN_TEXT" value="5" />
           <entry key="XML" value="2" />
-          <entry key="YAML" value="80" />
+          <entry key="YAML" value="85" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.php.new.test">
@@ -88,7 +88,7 @@
         <entry file="file://$PROJECT_DIR$/.travis.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
-              <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+              <caret line="4" column="33" lean-forward="true" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -114,9 +114,9 @@
         <option value="$PROJECT_DIR$/composer.json" />
         <option value="$PROJECT_DIR$/test/Test.php" />
         <option value="$PROJECT_DIR$/test/BasicTest.php" />
-        <option value="$PROJECT_DIR$/.travis.yml" />
         <option value="$PROJECT_DIR$/src/User/UserController.php" />
         <option value="$PROJECT_DIR$/phpunit.xml" />
+        <option value="$PROJECT_DIR$/.travis.yml" />
       </list>
     </option>
   </component>
@@ -246,6 +246,24 @@
               <item name="travis_ci_test" type="462c0819:PsiDirectoryNode" />
               <item name="tests" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="travis_ci_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="travis_ci_test" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="travis_ci_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="travis_ci_test" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+              <item name="phpunit" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="travis_ci_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="travis_ci_test" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+              <item name="phpunit" type="462c0819:PsiDirectoryNode" />
+              <item name="phpunit" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -326,7 +344,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1542526110565</updated>
-      <workItem from="1542526111775" duration="4012000" />
+      <workItem from="1542526111775" duration="4267000" />
     </task>
     <servers />
   </component>
@@ -363,7 +381,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4012000" />
+    <option name="totallyTimeSpent" value="4267000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -375,11 +393,11 @@
       <window_info anchor="bottom" id="Docker" weight="0.32908162" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" sideWeight="0.49856734" weight="0.32908162" />
+      <window_info active="true" anchor="bottom" id="Terminal" sideWeight="0.49856734" visible="true" weight="0.32908162" />
       <window_info anchor="bottom" id="Event Log" sideWeight="0.502149" side_tool="true" weight="0.32908162" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.497851" visible="true" weight="0.32908162" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.497851" weight="0.32908162" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -447,7 +465,7 @@
     <entry file="file://$PROJECT_DIR$/.travis.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+          <caret line="4" column="33" lean-forward="true" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
         </state>
       </provider>
     </entry>
